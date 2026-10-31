@@ -3,7 +3,7 @@
 AgentForge is a terminal-first AI coding assistant built with **TypeScript**, **Bun**, and the **Vercel AI SDK**. It combines interactive coding workflows with LLM-powered tool use, staged file changes, and approval-based review. A Telegram mode is also included for interacting with the agent through a bot.
 
 > **Project status:** Personal/experimental project. Review the code and test it in a disposable repository before using it on important files. Some operations depend on external API keys and provider availability.
-
+ 
 ## Features
 
 - **Agent mode** — use an LLM-powered agent with workspace tools and a review flow for proposed changes.
